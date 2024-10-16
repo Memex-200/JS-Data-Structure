@@ -1,3 +1,7 @@
+// fib(2) ==> [0,1]
+// fib(3) ==> [0,1,1]
+// fib(4) ==> [0,1,1,2]
+
 function fibonacci(n)
 {
     const fib=[0,1];
